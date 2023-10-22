@@ -1,1 +1,3 @@
-# CS300
+# CS300- ReadMe
+The Problem for this course was how to process data (Read/Write) from a file in a timely manner. 
+We explored through vectors, hash tables, and binary search trees as potential algorithims to find best use case for the algorithm in the project. If I encountered any roadblocks going through the activities, first I would read through the zybook material. Then I would use other resources such as youtube to explain more in depth what I failed to understand. This project has been an eye opener to keep a program time sufficient for the end users. Finding the best use of the correct way to sort, find, and add data is important for the end user. I will definetyly use what I have learned in future programs to make sure that my programs can be able to handle large quantaties of data in a correct use. This will make sure when collaborating with other programmers, that the code is readable and adaptable to other programs.
